@@ -1,0 +1,28 @@
+# Machine Learning Model Implementation (Spam Detection)
+
+- [x] **Project Setup**
+    - [x] Create `task.md`
+    - [x] Create `implementation_plan.md`
+    - [x] Create `requirements.txt`
+- [x] **Data Acquisition**
+    - [x] Download `spam.csv` from GitHub
+- [x] **Notebook Implementation**
+    - [x] Initialize `ml_model_project.ipynb`
+    - [x] Implement Data Loading & Cleaning
+    - [x] Implement EDA (Visualizations)
+    - [x] Implement Preprocessing (Text Vectorization)
+    - [x] Implement Model Training (Logistic, RF, SVM, NB, KNN)
+    - [x] Implement Evaluation (Metrics, ROC, Confusion Matrix)
+    - [x] Implement Conclusion & Future Work
+- [x] **Documentation**
+    - [x] Create `README.md`
+- [x] **Graphical User Interface**
+    - [x] Create `app.py` (Streamlit)
+    - [x] Update `requirements.txt`
+- [x] **Final Verification**
+    - [x] Verify Notebook runs successfully
+    - [x] Check all deliverables
+- [/] **GitHub Deployment**
+    - [x] Add screenshot to README
+    - [ ] Initialize Git
+    - [ ] Push to `https://github.com/mryash3375-del/Smap-Detection-App`
